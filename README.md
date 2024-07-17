@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, Je suis ToStam</h1>
 <h3 align="center">Une personne passionné d'informatique depuis tout petit</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mctostam&label=Profile%20views&color=0e75b6&style=flat" alt="mctostam" /> </p>
-
 - 🤖 Je travail sur [GloryBot](https://discord.com/oauth2/authorize?client_id=829422257130176523)
 
 - 👮Super-Modérateur de [NationsGlory](https://nationsglory.fr)
