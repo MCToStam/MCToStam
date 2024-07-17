@@ -5,7 +5,7 @@
 
 - 👮Super-Modérateur de [NationsGlory](https://nationsglory.fr)
 
-- 🔗Mon email : **tostampro@gmail.com**
+- 🔗Mon email : tostampro@gmail.com
 
 <h3 align="left">Liens Utiles :</h3>
 <p align="left">
