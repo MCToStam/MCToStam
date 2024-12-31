@@ -3,14 +3,16 @@
 
 - 🤖 Je travail sur [GloryBot](https://discord.com/oauth2/authorize?client_id=829422257130176523)
 
-- 👮Super-Modérateur de [NationsGlory](https://nationsglory.fr)
+- 👮 Super-Modérateur de [NationsGlory](https://nationsglory.fr)
 
-- 🔗Mon email : tostampro@gmail.com
+- 🔗 Mon email : tostampro@gmail.com
 
-<h3 align="left">Liens Utiles :</h3>
+<h3 align="left">GloryBot :</h3>
 <p align="left">
-<a href="https://www.youtube.com/@tostam9387" target="blank"><img align="center" src="https://raw.githubusercontent.com/MCToStam/MCToStam/e0d435c5b20691283a80d5d0e5612ef0284082ad/img/youtube.svg" alt="tostam9387" height="30" width="40" /></a>
-<a href="https://discord.gg/cktVGTuU" target="blank"><img align="center" src="https://raw.githubusercontent.com/MCToStam/MCToStam/e0d435c5b20691283a80d5d0e5612ef0284082ad/img/discord.svg" alt="cktVGTuU" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@glorybot" target="blank"><img align="center" src="https://raw.githubusercontent.com/MCToStam/MCToStam/e0d435c5b20691283a80d5d0e5612ef0284082ad/img/youtube.svg" alt="tostam9387" height="30" width="40" /></a>
+<a href="https://discord.gg/tFkb9nYSd8" target="blank"><img align="center" src="https://raw.githubusercontent.com/MCToStam/MCToStam/e0d435c5b20691283a80d5d0e5612ef0284082ad/img/discord.svg" alt="cktVGTuU" height="30" width="40" /></a>
+<a href="https://www.instagram.com/glorybot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/MCToStam/MCToStam/e0d435c5b20691283a80d5d0e5612ef0284082ad/img/discord.svg" alt="cktVGTuU" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@glorybot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/MCToStam/MCToStam/e0d435c5b20691283a80d5d0e5612ef0284082ad/img/discord.svg" alt="cktVGTuU" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langages et Outils :</h3>
