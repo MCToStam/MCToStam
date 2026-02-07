@@ -11,8 +11,6 @@
 <p align="left">
 <a href="https://www.youtube.com/@glorybot" target="blank"><img align="center" src="https://raw.githubusercontent.com/MCToStam/MCToStam/e0d435c5b20691283a80d5d0e5612ef0284082ad/img/youtube.svg" alt="tostam9387" height="30" width="40" /></a>
 <a href="https://discord.gg/tFkb9nYSd8" target="blank"><img align="center" src="https://raw.githubusercontent.com/MCToStam/MCToStam/e0d435c5b20691283a80d5d0e5612ef0284082ad/img/discord.svg" alt="cktVGTuU" height="30" width="40" /></a>
-<a href="https://www.instagram.com/glorybot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/MCToStam/MCToStam/e0d435c5b20691283a80d5d0e5612ef0284082ad/img/discord.svg" alt="cktVGTuU" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@glorybot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/MCToStam/MCToStam/e0d435c5b20691283a80d5d0e5612ef0284082ad/img/discord.svg" alt="cktVGTuU" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages ​​& Tools :</h3>
